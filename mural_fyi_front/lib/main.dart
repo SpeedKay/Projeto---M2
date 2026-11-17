@@ -5,5 +5,5 @@ import 'app/mural_fyi_app.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  runApp(const MuralFyiApp());
+  runApp(const MuralApp());
 }
